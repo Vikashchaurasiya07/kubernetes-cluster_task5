@@ -52,3 +52,7 @@ minikube service inspireme-service
 ```
 ![image](https://github.com/user-attachments/assets/6847b6e1-75f4-4552-a714-fedd500b887f)
 
+### 7. Status
+![image](https://github.com/user-attachments/assets/541b2405-77b3-4ea9-abab-686b9d9762ea)
+
+
